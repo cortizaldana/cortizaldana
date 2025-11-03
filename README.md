@@ -1,6 +1,6 @@
 <h1>Hi, I'm Christopher Ortiz Aldana! <br/><a href="https://www.linkedin.com/in/christopherortizaldana/">Linux Administrator</a> | Certified In <a href="https://rhtapps.redhat.com/verify?certId=240-206-458">RHCSA</a>, <a href="https://www.credly.com/badges/eb57f0f7-b5d0-45e7-9520-85a9a8b2bf77">Linux+</a>, And <a href="https://www.credly.com/badges/eb57f0f7-b5d0-45e7-9520-85a9a8b2bf77">Security+</a> </h1>
 
-<h2>👨‍💻 Linux Administrator Projects:</h2>
+<h2>👨‍💻 What I've Worked On:</h2>
 
 - <b>Project Stellar Access</b>
   - [FreeIPA, BIND9, ISC-DHCP](https://github.com/joshmadakor1/Algorithms-Practice)
