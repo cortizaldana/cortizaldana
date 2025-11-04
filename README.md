@@ -35,8 +35,11 @@
 
 <h2> Interstellarlinux Social Media Accounts</h2>
 
-[linkedin]: https://www.linkedin.com/company/interstellarlinux/ 
-[tiktok]: https://www.tiktok.com/@interstellarlinux
+[<img align="left" alt="Interstellarlinux LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-company]
+[<img align="left" alt="Interstellarlinux TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok-company]
+
+[linkedin-company]: https://www.linkedin.com/company/interstellarlinux/
+[tiktok-company]: https://www.tiktok.com/@interstellarlinux
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
