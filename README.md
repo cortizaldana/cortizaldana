@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christopher Ortiz Aldana! <br/><a href="https://www.linkedin.com/in/christopherortizaldana/">Linux Administrator</a> </h1>
+<h1>Hi, I'm Christopher Ortiz Aldana! <br/> </h1>
 
 <h2>👨‍💻 Interstellarlinux Infrastructure Projects:</h2>
 
