@@ -1,6 +1,6 @@
 <h1>Hi, I'm Christopher Ortiz Aldana! <br/><a href="https://www.linkedin.com/in/christopherortizaldana/">Linux Administrator</a> </h1>
 
-<h2>👨‍💻 What I've Worked On:</h2>
+<h2>👨‍💻 Interstellarlinux Infrastructure Projects:</h2>
 
 - <b>Project Stellar Access</b>
   - [FreeIPA, BIND9, ISC-DHCP](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -25,19 +25,12 @@
 <a href="https://www.credly.com/badges/eb57f0f7-b5d0-45e7-9520-85a9a8b2bf77">Linux+</a><br>
 <a href="https://www.credly.com/badges/eb57f0f7-b5d0-45e7-9520-85a9a8b2bf77">Security+</a>
 
-
-
-<a href="https://rhtapps.redhat.com/verify?certId=240-206-458">RHCSA</a>
-<a href="https://www.credly.com/badges/eb57f0f7-b5d0-45e7-9520-85a9a8b2bf77">Linux+</a>
-<a href="https://www.credly.com/badges/eb57f0f7-b5d0-45e7-9520-85a9a8b2bf77">Security+</a>
-
-<h2> 🤳 Connect with me:</h2>
+<h2> 📫 How to reach me:</h2>
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/christopherortizaldana/
 [linkedin]: https://www.linkedin.com/in/christopherortizaldana/
 
 <!--
