@@ -21,11 +21,10 @@
 
 <h2>Certifications</h2>
 
-<div style="display: flex; flex-direction: column; gap: 10px;">
-  <a href="https://rhtapps.redhat.com/verify?certId=240-206-458">RHCSA</a>
-  <a href="https://www.credly.com/badges/eb57f0f7-b5d0-45e7-9520-85a9a8b2bf77">Linux+</a>
-  <a href="https://www.credly.com/badges/eb57f0f7-b5d0-45e7-9520-85a9a8b2bf77">Security+</a>
-</div>
+<a href="https://rhtapps.redhat.com/verify?certId=240-206-458">RHCSA</a><br>
+<a href="https://www.credly.com/badges/eb57f0f7-b5d0-45e7-9520-85a9a8b2bf77">Linux+</a><br>
+<a href="https://www.credly.com/badges/eb57f0f7-b5d0-45e7-9520-85a9a8b2bf77">Security+</a>
+
 
 
 <a href="https://rhtapps.redhat.com/verify?certId=240-206-458">RHCSA</a>
