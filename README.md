@@ -8,8 +8,6 @@
   - [Postfix, Kerberos, Dovecot](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Project Stellar Monitor </b>
   - [Podman, Grafana, Prometheus, Node_Explorer, ELK Stack](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>Project Stellar SQL</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Project Stellar Forward Proxy</b>
   - [Squid](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Project Stellar Balance</b>
@@ -29,9 +27,16 @@
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
+
 
 
 [linkedin]: https://www.linkedin.com/in/christopherortizaldana/
+
+<h2> Interstellarlinux Social Media Accounts</h2>
+
+[linkedin]: https://www.linkedin.com/company/interstellarlinux/ 
+[tiktok]: https://www.tiktok.com/@interstellarlinux
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
