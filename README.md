@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christopher Ortiz Aldana! <br/><a href="https://www.linkedin.com/in/christopherortizaldana/">Linux Administrator</a> | Certified In ,, And  </h1>
+<h1>Hi, I'm Christopher Ortiz Aldana! <br/><a href="https://www.linkedin.com/in/christopherortizaldana/">Linux Administrator</a> </h1>
 
 <h2>👨‍💻 What I've Worked On:</h2>
 
@@ -20,6 +20,13 @@
   - [Ansible, OpenScap](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>Certifications</h2>
+
+<div style="display: flex; flex-direction: column; gap: 10px;">
+  <a href="https://rhtapps.redhat.com/verify?certId=240-206-458">RHCSA</a>
+  <a href="https://www.credly.com/badges/eb57f0f7-b5d0-45e7-9520-85a9a8b2bf77">Linux+</a>
+  <a href="https://www.credly.com/badges/eb57f0f7-b5d0-45e7-9520-85a9a8b2bf77">Security+</a>
+</div>
+
 
 <a href="https://rhtapps.redhat.com/verify?certId=240-206-458">RHCSA</a>
 <a href="https://www.credly.com/badges/eb57f0f7-b5d0-45e7-9520-85a9a8b2bf77">Linux+</a>
