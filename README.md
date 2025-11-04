@@ -31,8 +31,7 @@
 
 [linkedin]: https://www.linkedin.com/in/christopherortizaldana/
 
-
-<h2> Interstellarlinux Social Media Accounts</h2>
+<h2>Interstellarlinux Social Media Accounts</h2>
 
 [<img align="left" alt="Interstellarlinux LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-company]
 [<img align="left" alt="Interstellarlinux TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok-company]
