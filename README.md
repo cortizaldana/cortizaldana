@@ -1,21 +1,21 @@
-<h1>Hi, I'm Christopher Ortiz Aldana! <br/> </h1>
+<h1>Hi, I'm Christopher Ortiz Aldana! Data Center Technician & Linux Systems Administrator <br/> </h1>
 
-<h2>👨‍💻 Interstellarlinux Infrastructure Projects:</h2>
+<h2>👨‍💻 ISL Projects:</h2>
 
 - <b>Project Stellar Access</b>
-  - [FreeIPA, BIND9, ISC-DHCP](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [FreeIPA, BIND9, ISC-DHCP](https://github.com/cortizaldana/)
 - <b>Project Stellar Post</b>
-  - [Postfix, Kerberos, Dovecot](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Postfix, Kerberos, Dovecot](https://github.com/cortizaldana/)
 - <b>Project Stellar Monitor </b>
-  - [Podman, Grafana, Prometheus, Node_Explorer, ELK Stack](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Podman, Grafana, Prometheus, Node_Explorer, ELK Stack](https://github.com/cortizaldana/)
 - <b>Project Stellar Forward Proxy</b>
-  - [Squid](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Squid](https://github.com/cortizaldana/)
 - <b>Project Stellar Balance</b>
-  - [Apache, HAProxy](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Apache, HAProxy](https://github.com/cortizaldana/)
 - <b>Project Stellar Reverse Proxy</b>
-  - [NGINX](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [NGINX](https://github.com/cortizaldana)
 - <b>Project Stellar STIG's</b>
-  - [Ansible, OpenScap](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Ansible, OpenScap](https://github.com/cortizaldana/)
 
 <h2>Certifications</h2>
 
