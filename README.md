@@ -2,19 +2,19 @@
 
 <h2>👨‍💻 InterStellarLinux Projects:</h2>
 
-- <b>Project ISL Access</b>
+- <b>Project ISL Infra</b>
   - [FreeIPA, BIND9, ISC-DHCP](https://github.com/cortizaldana/)
-- <b>Project ISL Post</b>
+- <b>Project ISL IT</b>
   - [Postfix, Kerberos, Dovecot](https://github.com/cortizaldana/)
-- <b>Project ISL Monitor </b>
+- <b>Project ISL Automation</b>
   - [Podman, Grafana, Prometheus, Node_Explorer, ELK Stack](https://github.com/cortizaldana/)
-- <b>Project ISL Forward Proxy</b>
+- <b>Project ISL Monitoring</b>
   - [Squid](https://github.com/cortizaldana/)
-- <b>Project ISL Balance</b>
+- <b>Project ISL Truth</b>
   - [Apache, HAProxy](https://github.com/cortizaldana/)
-- <b>Project ISL Reverse Proxy</b>
+- <b>Project ISL Net </b>
   - [NGINX](https://github.com/cortizaldana)
-- <b>Project ISL STIG's</b>
+- <b>Project ISL Security</b>
   - [Ansible, OpenScap](https://github.com/cortizaldana/)
 
 <h2>Certifications</h2>
@@ -23,13 +23,13 @@
 <a href="https://www.credly.com/badges/eb57f0f7-b5d0-45e7-9520-85a9a8b2bf77">Linux+</a><br>
 <a href="https://www.credly.com/badges/eb57f0f7-b5d0-45e7-9520-85a9a8b2bf77">Security+</a>
 
-<h2> 📫 How to reach me:</h2>
+<h2> How to reach me:</h2>
 
 [<img alt="cortizaldana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/christopherortizaldana/
 
-<h2>Interstellarlinux Social Media Accounts</h2>
+<h2>InterStellarLinux</h2>
 
 [<img alt="Interstellarlinux LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-company]
 [<img alt="Interstellarlinux TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok-company]
