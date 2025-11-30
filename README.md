@@ -1,20 +1,20 @@
 <h1>Hi, I'm Christopher Ortiz Aldana! Data Center Technician & Linux Systems Administrator <br/> </h1>
 
-<h2>👨‍💻 ISL Projects:</h2>
+<h2>👨‍💻 InterStellarLinux Projects:</h2>
 
-- <b>Project Stellar Access</b>
+- <b>Project ISL Access</b>
   - [FreeIPA, BIND9, ISC-DHCP](https://github.com/cortizaldana/)
-- <b>Project Stellar Post</b>
+- <b>Project ISL Post</b>
   - [Postfix, Kerberos, Dovecot](https://github.com/cortizaldana/)
-- <b>Project Stellar Monitor </b>
+- <b>Project ISL Monitor </b>
   - [Podman, Grafana, Prometheus, Node_Explorer, ELK Stack](https://github.com/cortizaldana/)
-- <b>Project Stellar Forward Proxy</b>
+- <b>Project ISL Forward Proxy</b>
   - [Squid](https://github.com/cortizaldana/)
-- <b>Project Stellar Balance</b>
+- <b>Project ISL Balance</b>
   - [Apache, HAProxy](https://github.com/cortizaldana/)
-- <b>Project Stellar Reverse Proxy</b>
+- <b>Project ISL Reverse Proxy</b>
   - [NGINX](https://github.com/cortizaldana)
-- <b>Project Stellar STIG's</b>
+- <b>Project ISL STIG's</b>
   - [Ansible, OpenScap](https://github.com/cortizaldana/)
 
 <h2>Certifications</h2>
