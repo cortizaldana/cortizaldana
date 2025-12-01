@@ -3,22 +3,26 @@
 <h2>👨‍💻 InterStellarLinux Projects:</h2>
 
 - <b>Project ISL Infra</b>
+  - [HA KVM Cluster Configuration](https://github.com/cortizaldana/)
+  - [ISCSI SAN Configuration](https://github.com/cortizaldana/)
+  - [Multipath Configuration](https://github.com/cortizaldana/)
+  - [NFS Server Configuration](https://github.com/cortizaldana/)
+    
+- <b>Project ISL IT</b>
   - [KEA DHCP Installation](https://github.com/cortizaldana/)
   - [Bind9 Installation](https://github.com/cortizaldana/)
   - [FreeIPA Installation](https://github.com/cortizaldana/)
-  - 
-- <b>Project ISL IT</b>
-  - [Postfix, Kerberos, Dovecot](https://github.com/cortizaldana/)
+ 
 - <b>Project ISL Automation</b>
-  - [Podman, Grafana, Prometheus, Node_Explorer, ELK Stack](https://github.com/cortizaldana/)
+  - [Ansible VM Operations Playbook](https://github.com/cortizaldana/)
+  - [PXE Configuration](https://github.com/cortizaldana/)
+  - [Foreman/Katello Configuration](https://github.com/cortizaldana/)
+  
 - <b>Project ISL Monitoring</b>
-  - [Squid](https://github.com/cortizaldana/)
-- <b>Project ISL Truth</b>
-  - [Apache, HAProxy](https://github.com/cortizaldana/)
-- <b>Project ISL Net </b>
-  - [NGINX](https://github.com/cortizaldana)
-- <b>Project ISL Security</b>
-  - [Ansible, OpenScap](https://github.com/cortizaldana/)
+  - [ELK Stack Monitoring](https://github.com/cortizaldana/)
+  - [Prometheus/Grafana Monitoring](https://github.com/cortizaldana/)
+  - [Kubernetes Cluster Monitoring](https://github.com/cortizaldana/)
+    
 
 <h2>Certifications</h2>
 
