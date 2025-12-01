@@ -3,7 +3,10 @@
 <h2>👨‍💻 InterStellarLinux Projects:</h2>
 
 - <b>Project ISL Infra</b>
-  - [FreeIPA, BIND9, ISC-DHCP](https://github.com/cortizaldana/)
+  - [KEA DHCP Installation](https://github.com/cortizaldana/)
+  - [Bind9 Installation](https://github.com/cortizaldana/)
+  - [FreeIPA Installation](https://github.com/cortizaldana/)
+  - 
 - <b>Project ISL IT</b>
   - [Postfix, Kerberos, Dovecot](https://github.com/cortizaldana/)
 - <b>Project ISL Automation</b>
