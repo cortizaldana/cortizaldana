@@ -15,10 +15,16 @@
   - [Configuring FreeIPA](https://github.com/cortizaldana/)
 
  
-- <b>Project Hardening</b>
-  - [Are We STIGS Compliant?](https://github.com/cortizaldana/)
-  - [Scanning Our Systems](https://github.com/cortizaldana/)
-  - [Applying DISA STIGS](https://github.com/cortizaldana/)
+- <b>Project Monitoring</b>
+  - [Project Monitoring Explanation](https://github.com/cortizaldana/)
+  - [Configuring Prometheus](https://github.com/cortizaldana/)
+  - [Configuring Grafana](https://github.com/cortizaldana/)
+ 
+- <b>Project STIGS</b>
+  - [Project STIGS Explanation](https://github.com/cortizaldana/)
+  - [Configuring Ansible](https://github.com/cortizaldana/)
+  - [Running A Scan](https://github.com/cortizaldana/)
+  - [Applying Fixes](https://github.com/cortizaldana/)
   
     
 <h2>Certifications</h2>
