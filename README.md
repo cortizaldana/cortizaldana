@@ -9,7 +9,7 @@
     
     
 - <b>Project IT Ecosystem</b>
-  - [Common Services Needed For our Enviornment](https://github.com/cortizaldana/)
+  - [Project IT Ecosystem Explanation](https://github.com/cortizaldana/)
   - [Configuring KEA DHCP](https://github.com/cortizaldana/)
   - [Configuring BIND9](https://github.com/cortizaldana/)
   - [Configuring FreeIPA](https://github.com/cortizaldana/)
