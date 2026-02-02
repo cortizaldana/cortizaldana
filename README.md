@@ -13,7 +13,7 @@
   - [Configuring KEA DHCP](https://github.com/cortizaldana/)
   - [Configuring BIND9](https://github.com/cortizaldana/)
   - [Configuring FreeIPA](https://github.com/cortizaldana/)
-  - [Joining The Domain](https://github.com/cortizaldana/)
+
  
 - <b>Project Hardening</b>
   - [Are We STIGS Compliant?](https://github.com/cortizaldana/)
