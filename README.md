@@ -3,7 +3,7 @@
 <h2>👨‍💻 InterStellarLinux Projects:</h2>
 
 - <b>Project Engineering</b>
-  - [KVM Installation](https://github.com/cortizaldana/KVM-Installation)
+  - [Project Explanation](https://github.com/cortizaldana/KVM-Installation)
   - [Creating Multiple Bridges](https://github.com/cortizaldana/)
   - [Configuring Network Address Translation](https://github.com/cortizaldana/)
     
