@@ -1,6 +1,6 @@
 <h1>Hi, I'm Christopher Ortiz Aldana! Data Center Technician & Linux Systems Administrator <br/> </h1>
 
-<h2>👨‍💻 InterStellarLinux Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Project Engineering</b>
   - [Project Engineering Explanation](https://github.com/cortizaldana/Project-Engineering-Explanation)
